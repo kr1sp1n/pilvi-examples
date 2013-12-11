@@ -1,4 +1,4 @@
-pilvi-example-todoapp
-=====================
+pilvi-examples
+==============
 
-p2p todo app with pilvi
+pilvi examples running on heroku
