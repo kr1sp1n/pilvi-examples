@@ -25,5 +25,8 @@
   "dependencies": {
     "pilvi": "0.0.2",
     "coffee-script": "~1.6.3"
+  },
+  "engines": {
+    "node": "0.10.x"
   }
 }
