@@ -1,27 +1,29 @@
 {
-  "name": "pilvi-example-todoapp",
+  "name": "pilvi-examples",
   "version": "0.0.1",
-  "description": "Example app to demo pilvi framework",
+  "description": "pilvi examples running on heroku",
   "main": "index.coffee",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/kr1sp1n/pilvi-example-todoapp.git"
+    "url": "git://github.com/kr1sp1n/pilvi-examples.git"
   },
   "keywords": [
     "p2p",
     "pilvi",
-    "example"
+    "example",
+    "heroku"
   ],
   "author": "kr1sp1n",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/kr1sp1n/pilvi-example-todoapp/issues"
+    "url": "https://github.com/kr1sp1n/pilvi-examples/issues"
   },
-  "homepage": "https://github.com/kr1sp1n/pilvi-example-todoapp",
+  "homepage": "https://github.com/kr1sp1n/pilvi-examples",
   "dependencies": {
-    "pilvi": "0.0.1"
+    "pilvi": "0.0.2",
+    "coffee-script": "~1.6.3"
   }
 }
